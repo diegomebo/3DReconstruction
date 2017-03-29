@@ -1,2 +1,3 @@
 # 3DReconstruction
-Program for Computer Vision Lab. The objective if to reconstruct an object in 3D using images taken by a Kinnect V1
+Program for Computer Vision Lab. 
+The objective is to reconstruct an object in 3D using images taken by a Kinnect V1
