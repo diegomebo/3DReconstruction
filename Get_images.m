@@ -1,6 +1,8 @@
 clear all;
 vid = videoinput('kinect',1);
 vid2 = videoinput('kinect',2);
+% Previe Image 1
+preview(vid);
 % Get the source properties for the depth device.
 srcDepth = getselectedsource(vid2);
 % Set the frames per trigger for both devices to 1.
